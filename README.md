@@ -3,4 +3,5 @@
 
 - ✨ I’m currently working on [NLP-projects](https://github.com/PollyIva/NLP-projects)
 - 🌱 I’m currently learning **python, Machine Learning and Natural Language Programming**
+- 📄 My [Resume](https://github.com/PollyIva/PollyIva/blob/main/Resume%20Polina%20Ivanilova.pdf)
 
