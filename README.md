@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - ✨ I’m currently working on [NLP-projects](https://github.com/PollyIva/NLP-projects)
-- 🌱 I’m currently learning **python, Machine Learning and Natural Language Programming**
+- 🌱 I’m developing in **python, Machine Learning and Natural Language Programming**
 - 📄 My [Resume](https://github.com/PollyIva/PollyIva/blob/main/Resume%20Polina%20Ivanilova.pdf)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/polina-ivanilova-071925235/)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/polina-ivanilova-071925235/), [email](mailto:ivanilova.pv@gmail.com)
+- 🌍 I speak English, Russian
