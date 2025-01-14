@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Polina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- ✨ I’m currently working on [NLP-projects](https://github.com/PollyIva/NLP-projects)
-- 🌱 I’m developing in **python, Machine Learning and Natural Language Programming**
+- ✨ I am currently studying for an MSc in Artificial Intelligence and Computer Vision at a HSE. You can see a summary of my projects here.
+- 🌱 I’m developing in **python, c++; Machine Learning; CV and NLP**
 - 📄 My [Resume](https://github.com/PollyIva/PollyIva/blob/main/Resume_Polina_Ivanilova.pdf)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/polina-ivanilova-071925235/), [email](mailto:ivanilova.pv@gmail.com)
 - 🌍 I speak English, Russian
