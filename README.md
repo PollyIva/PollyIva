@@ -3,6 +3,5 @@
 
 - ✨ I am currently studying for an MSc in Artificial Intelligence and Computer Vision at a HSE. You can see a summary of my projects here.
 - 🌱 I’m developing in **python, c++; Machine Learning; CV and NLP**
-- 📄 My [Resume](https://github.com/PollyIva/PollyIva/blob/main/Resume_Polina_Ivanilova.pdf)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/polina-ivanilova-071925235/), [email](mailto:ivanilova.pv@gmail.com)
 - 🌍 I speak English, Russian
